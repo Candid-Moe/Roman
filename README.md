@@ -1,1 +1,1 @@
-A class for roman numerals and arithmetic, conversions, etc.
+A class for roman numerals that implements all magic methods.
