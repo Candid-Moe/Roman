@@ -73,4 +73,6 @@ def test3():
         print(x, end= " ")
 
 if __name__ == '__main__':
+    test()
+    test2()
     test3()
